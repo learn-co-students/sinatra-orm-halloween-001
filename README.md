@@ -27,7 +27,7 @@ This will be challenging! There's a lot to do here. Think carefully about the mo
 
 ## Patch Example
 
-Here's an example of a form using PATCH to update a dog (`@dog`). Remeber, the name creates the keys in the params, the type tells the form whether to render a text box, a number field, etc. The value autofills the text boxes, etc.
+Here's an example of a form using PATCH to update a dog (`@dog`). Remember, the name creates the keys in the params, the type tells the form whether to render a text box, a number field, etc. The value autofills the text boxes, etc.
 
 The form's action points to the url the patch request should hit. The hidden input field with `value="patch"` transforms what looks like a form that posts into a form that patches.
 
