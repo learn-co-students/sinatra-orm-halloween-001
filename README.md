@@ -1,8 +1,4 @@
----
-tags: activerecord, sinatra, associations, mvc
-languages: ruby
-resources: 2
----
+
 
 # Trick-Or-Treating App
 
