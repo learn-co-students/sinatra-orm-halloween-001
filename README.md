@@ -76,5 +76,4 @@ end
 
 ```
 
-## Resources
-* [Flatiron School Curriculum](https://github.com/learn-co-curriculum/) - [Blog on Sinatra](https://github.com/learn-co-curriculum/sinatra-blog)
+
